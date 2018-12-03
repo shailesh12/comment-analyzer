@@ -2,7 +2,6 @@
 Contributors: Shailesh,aftab.alam8028
 Tags: comment-analyzer
 
-
 Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
  
 == Description ==
