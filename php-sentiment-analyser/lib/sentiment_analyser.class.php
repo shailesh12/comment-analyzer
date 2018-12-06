@@ -850,6 +850,3 @@ public function import_sentiment_custom($text,$rating) {
         
 }
 ?>
-
-
-
